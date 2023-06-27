@@ -1,2 +1,2 @@
 # HR_bot
-https://user-images.githubusercontent.com/58978680/249285033-6ea30ea7-d0f5-4a17-bf82-0540910ae8f8.png![image](https://github.com/KamranNiroomand/HR_bot/assets/95174740/2b87d4e4-98df-47a5-9576-d26b0f507bda)
+<img width="1018" alt="Screenshot 2023-06-27 at 6 34 31 PM" src="https://github.com/KamranNiroomand/HR_bot/assets/95174740/39a2621a-cd0a-42d2-ba54-9bc282e2119c">
