@@ -1,7 +1,7 @@
 # HR_bot
 Introducing HRGPT, an advanced chatbot based on GPT technology designed to generate comprehensive job descriptions for departments specializing in technology and data. By utilizing prompt engineering techniques,  a tailored job description will be created. Powered by the OpenAI API, this chatbot offers efficient and accurate results.
 
-For convenient deployment in a production environment, we have developed a Flask application and containerized it using Docker for standardized deployment.
+For convenient deployment in a production environment, I have developed and containerized a Flask application using Docker for standardized deployment.
 
 To launch the application, simply execute the Docker image in your integrated development environment (IDE) and run it on your local host. Prior to doing so, please ensure that you have inserted your OpenAI API credentials in the app.py file.
 
